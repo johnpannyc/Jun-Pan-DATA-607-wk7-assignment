@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>admin</Author>
+  <LastAuthor>admin</LastAuthor>
+  <Created>2018-10-12T20:08:25Z</Created>
+  <LastSaved>2018-10-12T20:16:53Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10050</WindowHeight>
+  <WindowWidth>22995</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#111111"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#121212"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="102"/>
+   <Column ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="59.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="38.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="70.5"/>
+   <Row>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Title</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Author_1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Author_2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Year</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Price</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Language</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Pilgrim's Progress</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">John Bunyan</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Null</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2018</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4.99</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Robinson Crusoe</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Daniel Defoe</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Null</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">7.99</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Good Omens</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Neil Gaiman</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Terry Pratchett</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2011</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">7.63</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <PublishObjects xmlns="urn:schemas-microsoft-com:office:excel">
+   <PublishObject>
+    <Id>6097</Id>
+    <DivID>Book1_6097</DivID>
+    <SourceType>SourceSheet</SourceType>
+    <HtmlType>HtmlStatic</HtmlType>
+    <Location
+     x:HRef="C:\Users\tbao\Desktop\CUNY MSDS notes\607\week 7\wk7 assignment\books.html"/>
+   </PublishObject>
+  </PublishObjects>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
