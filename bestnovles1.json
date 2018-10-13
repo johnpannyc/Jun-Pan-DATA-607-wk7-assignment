@@ -1,0 +1,8 @@
+{
+	"Title": ["Pilgrim's Progress", "Robinson Crusoe", "Good Omens"],
+	"Author_1": ["John Bunyan", "Daniel Defoe", "Neil Gaiman"],
+	"Author_2": ["Null", "Null", "Terry Pratchett"],
+	"Year": [2018, 2017, 2011],
+	"Price":[4.99, 7.99, 7.63],
+	"Language":["English", "English", "English"]
+}
