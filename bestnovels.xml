@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<books lang="en">
+	<book>
+	<Title>Pilgrim's Progress</Title>
+	<Author_1>John Bunyan</Author_1>
+	<Author_2>Null</Author_2>
+	<Year>2018</Year>
+	<Price>4.99</Price>
+	<Language>English</Language>
+</book>
+	<book>
+	<Title>Robinson Crusoe</Title>
+	<Author_1>Daniel Defoe</Author_1>
+	<Author_2>Null</Author_2>
+	<Year>2017</Year>
+	<Price>7.99</Price>
+	<Language>English</Language>	
+    </book
+    <book>
+	<Title>Good Omens</Title>
+	<Author_1>Neil Gaiman</Author_1>
+	<Author_2>Terry Pratchett</Author_2>
+	<Year>2011</Year>
+	<Price>7.63</Price>
+	<Language>English</Language>
+	</book>	
+</books>
